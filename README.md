@@ -13,8 +13,7 @@ Simply download the main file and run it in your IDE to run the program (assumin
 
 You need to install 2 packages: <br />
 - cowsay
-- requests <br />
-Run pip install cowsay requests in your terminal to install.
+- requests
 
 ### How To Use
 
